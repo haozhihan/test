@@ -1,8 +1,8 @@
 name: Bug Report
 description: Create a report for problems with ABACUS
-labels: Bug
+labels: bug
 assignees: 
-  - dyzheng
+  - haozhihan
 body: 
 - type: textarea
   attributes:
