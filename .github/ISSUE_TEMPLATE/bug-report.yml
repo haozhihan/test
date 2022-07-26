@@ -41,6 +41,7 @@ body:
       
       4. [e.g. run ABACUS with ...]
       
+      
       It is recommended to attach your calculation case here for the developers to reproduce the bug.
   validations:
     required: true
@@ -49,7 +50,9 @@ body:
     label: Environment
     description: >
       - OS: [e.g. Ubuntu 20.04]
+      
       - Compiler: [e.g. gcc 5.1.0]
+      
       - Dependencies: [e.g. Intel MKL, OpenBLAS]
   validations:
     required: true
