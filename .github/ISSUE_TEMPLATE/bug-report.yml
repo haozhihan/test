@@ -13,8 +13,8 @@ body:
       * abnormal interruption of the program,
       * systematic or randomized numerical error, or
       * relatively low efficiency.
-    validations:
-      required: true
+  validations:
+    required: true
 
 - type: textarea
   attributes:
