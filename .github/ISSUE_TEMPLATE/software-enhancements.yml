@@ -1,6 +1,5 @@
 name: Software Enhancements
 description: Suggest an idea to make ABACUS more robust and organized
-title: ''
 labels: ["Refactor"]
 assignees: 
   - caic99
