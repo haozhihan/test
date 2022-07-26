@@ -1,6 +1,5 @@
 name: Bug Report
 description: Create a report for problems with ABACUS
-title: ''
 labels: ["Bug"]
 assignees: 
   - haozhihan
