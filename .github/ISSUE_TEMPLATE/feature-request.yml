@@ -1,6 +1,6 @@
 name: Feature Request
 description: Suggest something more for ABACUS to do
-labels: ["Feature"]
+labels: Feature
 assignees: 
   - mohanchen
 
