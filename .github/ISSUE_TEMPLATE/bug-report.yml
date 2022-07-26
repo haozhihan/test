@@ -10,7 +10,9 @@ body:
     description: >
       A clear and concise description of what the bug is. 
       
+      
       The bug may results in:
+      
       - abnormal interruption of the program,
       
       - systematic or randomized numerical error, or
