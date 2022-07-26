@@ -4,7 +4,7 @@ labels: ["Bug"]
 assignees: 
   - haozhihan
 body: 
-- type: textarea
+- type: markdown
   attributes:
     label: Describe the bug
     description: >
