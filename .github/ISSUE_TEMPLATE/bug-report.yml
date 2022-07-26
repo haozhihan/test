@@ -1,6 +1,6 @@
 name: Bug Report
 description: Create a report for problems with ABACUS
-labels: ["Bug"]
+labels: Bug
 assignees: 
   - dyzheng
 body: 
