@@ -1,6 +1,5 @@
 name: Functionality Request
 description: Suggest something more for ABACUS to do
-title: ''
 labels: ["enhancement"]
 assignees: 
   - mohanchen
