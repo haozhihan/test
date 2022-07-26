@@ -2,7 +2,7 @@ name: Bug Report
 description: Create a report for problems with ABACUS
 labels: ["Bug"]
 assignees: 
-  - haozhihan
+  - dyzheng
 body: 
 - type: textarea
   attributes:
