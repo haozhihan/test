@@ -7,14 +7,12 @@ body:
 - type: textarea
   attributes:
     label: Describe the bug
-    description: >
+    description: |
       A clear and concise description of what the bug is. 
       The bug may results in:
       
       - abnormal interruption of the program,
-      
       - systematic or randomized numerical error, or
-      
       - relatively low efficiency.
   validations:
     required: true
@@ -29,7 +27,7 @@ body:
 - type: textarea
   attributes:
     label: To Reproduce
-    description: >
+    description: |
       Steps to reproduce the behavior:
      
       1. [e.g. clone the source code from ...]
