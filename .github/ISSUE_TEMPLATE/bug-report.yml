@@ -31,16 +31,11 @@ body:
     label: To Reproduce
     description: >
       Steps to reproduce the behavior:
-      
+     
       1. [e.g. clone the source code from ...]
-      
       2. [e.g. configure CMake with options ...]
-      
       3. [e.g. build ABACUS with ...]
-      
       4. [e.g. run ABACUS with ...]
-      
-      
       It is recommended to attach your calculation case here for the developers to reproduce the bug.
   validations:
     required: true
