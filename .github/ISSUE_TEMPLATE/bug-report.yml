@@ -28,7 +28,6 @@ body:
     label: To Reproduce
     description: |
       Steps to reproduce the behavior:
-     
       1. [e.g. clone the source code from ...]
       2. [e.g. configure CMake with options ...]
       3. [e.g. build ABACUS with ...]
