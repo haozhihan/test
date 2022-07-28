@@ -19,13 +19,13 @@ body:
 - type: textarea
   attributes:
     label: Expected behavior
-    description: >
+    description: |
       A clear and concise description of what you expected to happen.
 
 - type: textarea
   attributes:
     label: To Reproduce
-    description: >
+    description: |
       Steps to reproduce the behavior:
       1. [e.g. clone the source code from ...]
       2. [e.g. configure CMake with options ...]
